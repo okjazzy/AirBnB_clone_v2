@@ -1,2 +1,3 @@
-# AirBnB_clone_v2
-This project is the second part of a series of projects for recreate AirBnb, this repo will develop the Storage Engine with MySQL, using SQLAlchemy
+<center> <h1>Airbnb - The Console</h1> </center>
+
+This repository contains the initial stage of a student project to build a clone of the AirBnB website. This stage implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
